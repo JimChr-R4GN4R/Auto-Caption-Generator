@@ -22,7 +22,7 @@ python auto_caption_generator.py -f /path/to/your/video.mp4 --model <model_size>
 ## Example
 
 ```bash
-python3 .\video_srt_generator.py -f 'C:\Users\r4gn4r\Desktop\test.mp4' --model tiny
+python3 .\video_srt_generator.py -f 'C:\Users\r4gn4r\Desktop\test.mp4' --model base
 ```
 
 
