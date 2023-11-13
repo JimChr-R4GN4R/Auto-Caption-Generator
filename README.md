@@ -7,7 +7,7 @@ This Python script leverages the `openai-whisper` model to automatically generat
 Before running the script, make sure you have the following installed:
 
 - [MoviePy](https://zulko.github.io/moviepy/)
-- [OpenAI-Whisper]([https://whisper.ai/](https://pypi.org/project/openai-whisper/))
+- [OpenAI-Whisper](https://pypi.org/project/openai-whisper/)
 - [FFmpeg](https://www.ffmpeg.org/)
 
 ## How to use it
